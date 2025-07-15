@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: myntra_scrapper_project
+Version: 0.1
+Summary: A project to scrape data from Myntra
+Author: Devesh Rathod
+Author-email: deveshrathod15@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
